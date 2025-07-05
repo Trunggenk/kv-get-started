@@ -12,7 +12,7 @@
 	},
 	"kv_namespaces": [
 		{
-		"binding": "USER_NOTIFICATION",
+		"binding": "RATE_LIMIT_KV",
 		"id": "338927a0a0774854991d7972e68e8748"
 		}
 	]
